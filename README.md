@@ -83,9 +83,7 @@ cd scripts
 
 For optimal results, use one of the following sources to get fresh domain data:
 
-* [ICANN CZDS](https://czds.icann.org) — Official zone file access per TLD
-* [whoisds.com](https://whoisds.com/newly-registered-domains) — Daily TXT exports of newly registered domains
-* [ExpiredDomains.net](https://www.expireddomains.net) — Recently registered and dropped domains
+* [ICANN CZDS](https://czds.icann.org) : Official zone file access per TLD
 
 Zone files from ICANN CZDS must be requested and approved. Once downloaded, they can be used with the extract scripts.
 
@@ -97,6 +95,6 @@ domain.tld.    3600    IN    CNAME    shops.myshopify.com.
 
 ## Notes
 
-* This tool does not attempt exploitation — it is for **detection only**.
+* This tool does not attempt exploitation.
 * Ensure `httpx.exe` is in the `executables/` folder or accessible via system PATH.
 * All outputs are written to the `outputs/` folder or beside the scripts by default.
