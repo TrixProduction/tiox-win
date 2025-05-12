@@ -1,5 +1,10 @@
 # TakeItOver X (TIOX)
 
+> ⚠️ **Notice IMPORTANT**:  
+> Subdomains taken over are held for **less than 7 days**, purely to demonstrate the misconfiguration.  
+> If this is your subdomain, you can reclaim it at any time — just follow the simple procedure in your **Shopify admin** to correctly secure it and prevent subdomain takeover.
+
+
 **TakeItOver X (TIOX)** is a simple and fast toolset designed to discover vulnerable or misconfigured domains, specifically those that return a Shopify misconfiguration page. It is designed for researchers, auditors, or security enthusiasts who want to identify abandoned or unclaimed domains pointing to Shopify infrastructure.
 
 ## Project Structure
